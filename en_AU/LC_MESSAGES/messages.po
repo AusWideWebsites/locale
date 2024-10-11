@@ -244,204 +244,204 @@ msgstr "month"
 
 #: library/Box/TwigExtensions.php:251
 msgid "year"
-msgstr ""
+msgstr "year"
 
 #: library/Box/TwigExtensions.php:251
 msgid "decade"
-msgstr ""
+msgstr "decade"
 
 #: library/Box/TwigLoader.php:23 library/Box/TwigLoader.php:27
 #: library/Box/TwigLoader.php:31
 msgid "Missing :missing: param for Box_TwigLoader"
-msgstr ""
+msgstr "Missing :missing: param for Box_TwigLoader"
 
 #: library/FOSSBilling/CentralAlerts.php:119
 msgid "Unable to fetch alerts from Central Alerts System. See the error log for more information."
-msgstr ""
+msgstr "Unable to fetch alerts from Central Alerts System. See the error log for more information."
 
 #: library/FOSSBilling/CentralAlerts.php:127
 msgid "Invalid response from the FOSSBilling Central Alerts System."
-msgstr ""
+msgstr "Invalid response from the FOSSBilling Central Alerts System."
 
 #: library/FOSSBilling/Config.php:90
 msgid "An error occurred when creating a backup of the configuration file."
-msgstr ""
+msgstr "An error occurred when creating a backup of the configuration file."
 
 #: library/FOSSBilling/Config.php:96
 msgid "An error occurred when writing the updated configuration file."
-msgstr ""
+msgstr "An error occurred when writing the updated configuration file."
 
 #: library/FOSSBilling/Config.php:145
 msgid "Too many iterations were performed while formatting the config file"
-msgstr ""
+msgstr "Too many iterations were performed while formatting the config file"
 
 #: library/FOSSBilling/ExtensionManager.php:57
 msgid "Unable to fetch the extension details from the FOSSBilling extension directory."
-msgstr ""
+msgstr "Unable to fetch the extension details from the FOSSBilling extension directory."
 
 #: library/FOSSBilling/ExtensionManager.php:79
 msgid "An error occurred when fetching the extensions releases"
-msgstr ""
+msgstr "An error occurred when fetching the extensions releases"
 
 #: library/FOSSBilling/ExtensionManager.php:102
 msgid "Unable to fetch the latest extension release."
-msgstr ""
+msgstr "Unable to fetch the latest extension release."
 
 #: library/FOSSBilling/ExtensionManager.php:175
 msgid "Unable to connect to the FOSSBilling extension directory."
-msgstr ""
+msgstr "Unable to connect to the FOSSBilling extension directory."
 
 #: library/FOSSBilling/ExtensionManager.php:183
 msgid "Invalid response from the FOSSBilling extension directory."
-msgstr ""
+msgstr "Invalid response from the FOSSBilling extension directory."
 
 #: library/FOSSBilling/Mail.php:119
 msgid "Provided priority (:priority) is invalid. Please provide an integer between 1 and 5 or use the pre-defined symfony constants."
-msgstr ""
+msgstr "Provided priority (:priority) is invalid. Please provide an integer between 1 and 5 or use the pre-defined symfony constants."
 
 #: library/FOSSBilling/Mail.php:136
 msgid "FOSSBilling requires the proc_open PHP function to be enabled when using the sendmail transport"
-msgstr ""
+msgstr "FOSSBilling requires the proc_open PHP function to be enabled when using the sendmail transport"
 
 #: library/FOSSBilling/Mail.php:146
 msgid "A SendGrid API key is required to send emails via SendGrid"
-msgstr ""
+msgstr "A SendGrid API key is required to send emails via SendGrid""
 
 #: library/FOSSBilling/Mail.php:153
 msgid "Unable to send email: 'Custom' transport method was selected without a custom DSN"
-msgstr ""
+msgstr "Unable to send email: 'Custom' transport method was selected without a custom DSN"
 
 #: library/FOSSBilling/Mail.php:159
 msgid "Unknown mail transport: :transport"
-msgstr ""
+msgstr "Unknown mail transport: :transport"
 
 #: library/FOSSBilling/Mail.php:167
 msgid "Failed to send email via :transport with the exception :e"
-msgstr ""
+msgstr "Failed to send email via :transport with the exception :e"
 
 #: library/FOSSBilling/Mail.php:183
 msgid "SMTP host or port is not configured"
-msgstr ""
+msgstr "SMTP host or port is not configured"
 
 #: library/FOSSBilling/PasswordManager.php:35
 msgid "Invalid password hash provided"
-msgstr ""
+msgstr "Invalid password hash provided"
 
 #: library/FOSSBilling/Tools.php:59 library/FOSSBilling/Tools.php:252
 msgid "Service class :class was not found in :path"
-msgstr ""
+msgstr "Service class :class was not found in :path"
 
 #: library/FOSSBilling/Tools.php:161
 msgid "We were unable to generate a password with the required parameters"
-msgstr ""
+msgstr "We were unable to generate a password with the required parameters"
 
 #: library/FOSSBilling/Tools.php:301
 #: modules/Staff/html_admin/mod_staff_password_reset.html.twig:21
 #: modules/Staff/html_admin/mod_staff_password_update.html.twig:21
 msgid "Email address"
-msgstr ""
+msgstr "Email address"
 
 #: library/FOSSBilling/Tools.php:303 library/FOSSBilling/Validate.php:187
 #: modules/Servicehosting/Api/Guest.php:38
 msgid ":friendlyName: is invalid"
-msgstr ""
+msgstr ":friendlyName: is invalid"
 
 #: library/FOSSBilling/Update.php:148
 msgid "Failed to download the latest version information. Further details are available in the error log."
-msgstr ""
+msgstr "Failed to download the latest version information. Further details are available in the error log."
 
 #: library/FOSSBilling/Update.php:213 modules/System/Api/Admin.php:192
 msgid "You have the latest version of FOSSBilling. You do not need to update."
-msgstr ""
+msgstr "You have the latest version of FOSSBilling. You do not need to update."
 
 #: library/FOSSBilling/Update.php:225
 msgid "FOSSBilling :version: requires at least PHP :min_php:, but you are running :current_php:."
-msgstr ""
+msgstr "FOSSBilling :version: requires at least PHP :min_php:, but you are running :current_php:."
 
 #: library/FOSSBilling/Update.php:236
-msgid "The download URL for this release was not specified as a trusted one. Update canceled for security reasons."
-msgstr ""
+msgid "The download URL for this release was not specified as a trusted one. Update cancelled for security reasons."
+msgstr "The download URL for this release was not specified as a trusted one. Update cancelled for security reasons."
 
 #: library/FOSSBilling/Update.php:257
 msgid "Failed to download the update archive. Further details are available in the error log."
-msgstr ""
+msgstr "Failed to download the update archive. Further details are available in the error log."
 
 #: library/FOSSBilling/Update.php:271 modules/Extension/Service.php:481
 msgid "Failed to extract file, please check file and folder permissions. Further details are available in the error log."
-msgstr ""
+msgstr "Failed to extract file, please check file and folder permissions. Further details are available in the error log."
 
 #: library/FOSSBilling/Update.php:299
 msgid "Unable to clear cache and/or remove install folder. Further details are available in the error log."
-msgstr ""
+msgstr "Unable to clear cache and/or remove install folder. Further details are available in the error log."
 
 #: library/FOSSBilling/UpdatePatcher.php:49
 msgid "Unable to load existing configuration"
-msgstr ""
+msgstr "Unable to load existing configuration"
 
 #: library/FOSSBilling/UpdatePatcher.php:153
 msgid "There was an error while applying database patches. Please check the error log for information on the error, correct it, and then perform the backup patching method to complete the update."
-msgstr ""
+msgstr "There was an error while applying database patches. Please check the error log for information on the error, correct it, and then perform the backup patching method to complete the update."
 
 #: library/FOSSBilling/Validate.php:130
 msgid "Minimum password length is 8 characters."
-msgstr ""
+msgstr "Minimum password length is 8 characters."
 
 #: library/FOSSBilling/Validate.php:134
 msgid "Maximum password length is 256 characters."
-msgstr ""
+msgstr "Maximum password length is 256 characters."
 
 #: library/FOSSBilling/Validate.php:138
 msgid "Password must include at least one number."
-msgstr ""
+msgstr "Password must include at least one number."
 
 #: library/FOSSBilling/Validate.php:142
 msgid "Password must include at least one lowercase letter."
-msgstr ""
+msgstr "Password must include at least one lowercase letter."
 
 #: library/FOSSBilling/Validate.php:146
 msgid "Password must include at least one uppercase letter."
-msgstr ""
+msgstr "Password must include at least one uppercase letter."
 
 #: library/FOSSBilling/Validate.php:185
 #: modules/Client/html_client/mod_client_profile.html.twig:71
 msgid "Birthdate"
-msgstr ""
+msgstr "Birthdate"
 
 #: library/FOSSBilling/i18n.php:149
 msgid "Unable to enable / disable the locale as it is not present in the locale folder."
-msgstr ""
+msgstr "Unable to enable / disable the locale as it is not present in the locale folder."
 
 #: library/Model/ProductDomainTable.php:219
 msgid "Could not determine domain price. Domain action is missing"
-msgstr ""
+msgstr "Could not determine domain price. Domain action is missing"
 
 #: library/Model/ProductDomainTable.php:236
 msgid "Unknown TLD. Could not determine registration price"
-msgstr ""
+msgstr "Unknown TLD. Could not determine registration price"
 
 #: library/Model/ProductDomainTable.php:257
 msgid "Domain product cannot be removed."
-msgstr ""
+msgstr "Domain product cannot be removed."
 
 #: library/Model/ProductTable.php:61
 msgid "Unknown period selected "
-msgstr ""
+msgstr "Unknown period selected "
 
 #: library/Model/ProductTable.php:74
 msgid "Product pricing could not be determined. "
-msgstr ""
+msgstr "Product pricing could not be determined. "
 
 #: library/Model/ProductTable.php:104
 msgid "Unknown period selected for setup price"
-msgstr ""
+msgstr "Unknown period selected for setup price"
 
 #: library/Model/ProductTable.php:126
 msgid "Product :id payment type is recurrent, but period was not selected"
-msgstr ""
+msgstr "Product :id payment type is recurrent, but period was not selected"
 
 #: library/Model/ProductTable.php:138
 msgid "Unknown Period selected for price"
-msgstr ""
+msgstr "Unknown Period selected for price"
 
 #: library/Payment/Adapter/ClientBalance.php:59
 msgid "Your account balance is insufficient to cover this invoice."
@@ -707,35 +707,35 @@ msgstr "Error creating user"
 
 #: library/Server/Manager/Directadmin.php:457
 msgid "synchronizing the account"
-msgstr ""
+msgstr "synchronizing the account"
 
 #: library/Server/Manager/Directadmin.php:502
 msgid "Server Manager DirectAdmin Error: \"Account is not suspended\""
-msgstr ""
+msgstr "Server Manager DirectAdmin Error: \"Account is not suspended\""
 
 #: library/Server/Manager/Directadmin.php:669 library/Server/Manager/Whm.php:561
 msgid "HttpClientException: :error"
-msgstr ""
+msgstr "HttpClientException: :error""
 
 #: library/Server/Manager/Directadmin.php:682
 msgid "Server Manager DirectAdmin Error: \"The request you have made cannot be executed because it does not exist in your authority level\""
-msgstr ""
+msgstr "Server Manager DirectAdmin Error: \"The request you have made cannot be executed because it does not exist in your authority level\""
 
 #: library/Server/Manager/Hestia.php:162
 msgid "create user"
-msgstr ""
+msgstr "create user"
 
 #: library/Server/Manager/Hestia.php:175
 msgid "delete domain"
-msgstr ""
+msgstr "delete domain"
 
 #: library/Server/Manager/Hestia.php:175 library/Server/Manager/Hestia.php:179
 msgid "create domain"
-msgstr ""
+msgstr "create domain"
 
 #: library/Server/Manager/Hestia.php:177
 msgid "Failed to :action1: on the :type: server after failed to :action2:, check the error logs for further details"
-msgstr ""
+msgstr "Failed to :action1: on the :type: server after failed to :action2:, check the error logs for further details"
 
 #: library/Server/Manager/Plesk.php:101
 msgid "account synchronization"
@@ -743,31 +743,31 @@ msgstr "account synchronisation"
 
 #: library/Server/Manager/Plesk.php:255
 msgid "Can't modify client"
-msgstr ""
+msgstr "Can't modify client"
 
 #: modules/Activity/Controller/Admin.php:33
 msgid "Activity"
-msgstr ""
+msgstr "Activity"
 
 #: modules/Activity/Controller/Admin.php:40
 msgid "Event history"
-msgstr ""
+msgstr "Event history"
 
 #: modules/Activity/Service.php:35
 msgid "Delete activity"
-msgstr ""
+msgstr "Delete activity"
 
 #: modules/Activity/Service.php:36
 msgid "Allows the staff member to delete recorded activity."
-msgstr ""
+msgstr "Allows the staff member to delete recorded activity."
 
 #: modules/Api/Controller/Client.php:50 modules/Api/Controller/Client.php:256
 msgid "Unknown API call :call"
-msgstr ""
+msgstr "Unknown API call :call"
 
 #: modules/Api/Controller/Client.php:132
 msgid "Invalid request. Make sure request origin is :from"
-msgstr ""
+msgstr "Invalid request. Make sure request origin is :from"
 
 #: modules/Api/Controller/Client.php:143
 msgid "Unauthorized IP"
@@ -777,115 +777,115 @@ msgstr "Unauthorised IP"
 #: modules/Api/Controller/Client.php:206 modules/Api/Controller/Client.php:220
 #: modules/Api/Controller/Client.php:229 modules/Api/Controller/Client.php:243
 msgid "Authentication Failed"
-msgstr ""
+msgstr "Authentication Failed"
 
 #: modules/Api/Controller/Client.php:335
 msgid "CSRF token invalid"
-msgstr ""
+msgstr "CSRF token invalid"
 
 #: modules/Cart/Api/Guest.php:57 modules/Currency/Api/Admin.php:68
 #: modules/Currency/Api/Admin.php:199 modules/Currency/Api/Guest.php:47
 #: modules/Currency/Service.php:335 modules/Currency/Service.php:401
 #: modules/Currency/Service.php:648
 msgid "Currency not found"
-msgstr ""
+msgstr "Currency not found"
 
 #: modules/Cart/Api/Guest.php:96 modules/Cart/Api/Guest.php:104
 #: modules/Cart/Service.php:450
 msgid "The promo code has expired or does not exist"
-msgstr ""
+msgstr "The promo code has expired or does not exist"
 
 #: modules/Cart/Api/Guest.php:100 modules/Cart/Service.php:454
 msgid "Promo code cannot be applied to your account"
-msgstr ""
+msgstr "Promo code cannot be applied to your account"
 
 #: modules/Cart/Api/Guest.php:161
 msgid "Addon products cannot be added separately."
-msgstr ""
+msgstr "Addon products cannot be added separately."
 
 #: modules/Cart/Api/Guest.php:175
 msgid "One or more of your selected add-ons are invalid for the associated product."
-msgstr ""
+msgstr "One or more of your selected add-ons are invalid for the associated product."
 
 #: modules/Cart/Service.php:102
 msgid "Selected billing period is invalid"
-msgstr ""
+msgstr "Selected billing period is invalid"
 
 #: modules/Cart/Service.php:109
 msgid "This item is currently out of stock"
-msgstr ""
+msgstr "This item is currently out of stock"
 
 #: modules/Cart/Service.php:142
 msgid "Selected billing period is invalid for the selected add-on"
-msgstr ""
+msgstr "Selected billing period is invalid for the selected add-on"
 
 #: modules/Cart/Service.php:236 modules/Product/Api/Guest.php:82
 msgid "Product not found"
-msgstr ""
+msgstr "Product not found"
 
 #: modules/Cart/Service.php:298
 msgid "Add products to your cart before applying promo code"
-msgstr ""
+msgstr "Add products to your cart before applying promo code"
 
 #: modules/Cart/Service.php:446
 msgid "You have already used this promo code. Please remove the promo code and checkout again."
-msgstr ""
+msgstr "You have already used this promo code. Please remove the promo code and checkout again."
 
 #: modules/Cart/Service.php:506
 msgid "Cannot checkout an empty cart"
-msgstr ""
+msgstr "Cannot checkout an empty cart"
 
 #: modules/Cart/Service.php:518
 msgid "Selected currency :selected does not match your profile currency :code. Please change cart currency to continue."
-msgstr ""
+msgstr "Selected currency :selected does not match your profile currency :code. Please change cart currency to continue."
 
 #: modules/Cart/Service.php:534
 msgid "Unable to complete order. One or more of the selected products are invalid."
-msgstr ""
+msgstr "Unable to complete order. One or more of the selected products are invalid."
 
 #: modules/Cart/Service.php:609
 msgid "Discount: :product"
-msgstr ""
+msgstr "Discount: :product"
 
 #: modules/Cart/Service.php:621
 msgid ":product setup"
-msgstr ""
+msgstr ":product setup"
 
 #: modules/Client/Api/Admin.php:149 modules/Client/Api/Admin.php:239
 #: modules/Client/Api/Guest.php:84 modules/Profile/Service.php:133
 msgid "This email address is already registered."
-msgstr ""
+msgstr "This email address is already registered."
 
 #: modules/Client/Api/Admin.php:323 modules/Client/Api/Guest.php:227
 #: modules/Profile/Api/Admin.php:111 modules/Profile/Api/Client.php:113
 #: modules/Staff/Api/Admin.php:123 modules/Staff/Api/Guest.php:107
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Passwords do not match"
 
 #: modules/Client/Api/Admin.php:483
 msgid "Event not found"
-msgstr ""
+msgstr  "Event not found"
 
 #: modules/Client/Api/Admin.php:567
 msgid "Group has clients assigned. Please reassign them first."
-msgstr ""
+msgstr "Group has clients assigned. Please reassign them first."
 
 #: modules/Client/Api/Guest.php:59
 msgid "New registrations are temporary disabled"
-msgstr ""
+msgstr "New registrations are temporary disabled"
 
 #: modules/Client/Api/Guest.php:71
 msgid "Passwords do not match."
-msgstr ""
+msgstr "Passwords do not match."
 
 #: modules/Client/Api/Guest.php:130
 msgid "Please check your login details."
-msgstr ""
+msgstr "Please check your login details."
 
 #: modules/Client/Api/Guest.php:232 modules/Client/Api/Guest.php:236
 #: modules/Client/Service.php:698
 msgid "The link has expired or you have already reset your password."
-msgstr ""
+msgstr "The link has expired or you have already reset your password."
 
 #: modules/Client/Controller/Admin.php:33
 #: modules/Client/html_admin/mod_client_index.html.twig:7
@@ -895,50 +895,50 @@ msgstr ""
 #: themes/admin_default/html/mod_index_dashboard.html.twig:453
 #: themes/admin_default/html/mod_index_dashboard.html.twig:549
 msgid "Clients"
-msgstr ""
+msgstr "Clients"
 
 #: modules/Client/Controller/Admin.php:41
 #: modules/Extension/Controller/Admin.php:40
 #: modules/Invoice/Controller/Admin.php:41 modules/Order/Controller/Admin.php:42
 msgid "Overview"
-msgstr ""
+msgstr "Overview"
 
 #: modules/Client/Controller/Admin.php:48 modules/Invoice/Controller/Admin.php:48
 #: modules/Order/Controller/Admin.php:49
 msgid "Advanced search"
-msgstr ""
+msgstr "Advanced search"
 
 #: modules/Client/Controller/Admin.php:56
 msgid "Client login history"
-msgstr ""
+msgstr "Client login history"
 
 #: modules/Client/Controller/Client.php:48
 msgid "Email address was confirmed"
-msgstr ""
+msgstr "Email address was confirmed"
 
 #: modules/Client/Service.php:35
 msgid "Invalid email confirmation link"
-msgstr ""
+msgstr "Invalid email confirmation link"
 
 #: modules/Client/Service.php:71
 msgid "The password you chose when creating your account."
-msgstr ""
+msgstr "The password you chose when creating your account."
 
 #: modules/Client/Service.php:225
 msgid "Currency cannot be changed. Client already has invoices issued."
-msgstr ""
+msgstr "Currency cannot be changed. Client already has invoices issued."
 
 #: modules/Client/Service.php:230
 msgid "Currency cannot be changed. Client already has orders."
-msgstr ""
+msgstr "Currency cannot be changed. Client already has orders."
 
 #: modules/Client/Service.php:239
 msgid "You must define the client's currency before adding funds."
-msgstr ""
+msgstr "You must define the client's currency before adding funds.
 
 #: modules/Client/Service.php:243 modules/Client/ServiceBalance.php:125
 msgid "Funds amount is invalid"
-msgstr ""
+msgstr "Funds amount is invalid"
 
 #: modules/Client/Service.php:247 modules/Client/ServiceBalance.php:129
 msgid "Funds description is invalid"
@@ -946,64 +946,64 @@ msgstr ""
 
 #: modules/Client/Service.php:410
 msgid "Client ID or email is required"
-msgstr ""
+msgstr "Client ID or email is required"
 
 #: modules/Client/Service.php:424
 msgid "Client not found"
-msgstr ""
+msgstr "Client not found"
 
 #: modules/Client/Service.php:467
 msgid "Cannot remove groups with clients"
-msgstr ""
+msgstr "Cannot remove groups with clients"
 
 #: modules/Client/Service.php:628 modules/Profile/Service.php:125
 msgid "Email address cannot be changed"
-msgstr ""
+msgstr "Email address cannot be changed"
 
 #: modules/Client/Service.php:642 modules/Client/Service.php:658
 msgid "Field :field cannot be empty"
-msgstr ""
+msgstr "Field :field cannot be empty"
 
 #: modules/Cookieconsent/Controller/Admin.php:33
 msgid "Cookie consent"
-msgstr ""
+msgstr "Cookie consent"
 
 #: modules/Cron/Api/Guest.php:30 modules/Extension/Service.php:771
 #: modules/Staff/Service.php:196
 msgid "You do not have permission to perform this action"
-msgstr ""
+msgstr "You do not have permission to perform this action"
 
 #: modules/Currency/Api/Admin.php:107
 msgid "Currency already registered"
-msgstr ""
+msgstr "Currency already registered"
 
 #: modules/Currency/Api/Admin.php:111
 msgid "Currency code is invalid"
-msgstr ""
+msgstr "Currency code is invalid"
 
 #: modules/Currency/Service.php:69
 msgid "Currency conversion rate cannot be zero"
-msgstr ""
+msgstr "Currency conversion rate cannot be zero"
 
 #: modules/Currency/Service.php:135
 msgid "Currency code not provided"
-msgstr ""
+msgstr "Currency code not provided"
 
 #: modules/Currency/Service.php:331
 msgid "Cannot remove default currency"
-msgstr ""
+msgstr "Cannot remove default currency"
 
 #: modules/Currency/Service.php:391
 msgid "Currency format must include {{price}} tag"
-msgstr ""
+msgstr "Currency format must include {{price}} tag"
 
 #: modules/Currency/Service.php:419
 msgid "Currency rate is invalid"
-msgstr ""
+msgstr "Currency rate is invalid"
 
 #: modules/Currency/Service.php:480
 msgid "You must configure your API key to use Currency Data API as an exchange rate data source."
-msgstr ""
+msgstr "You must configure your API key to use Currency Data API as an exchange rate data source."
 
 #: modules/Currency/Service.php:485
 msgid "You must configure your API key to use currencylayer as an exchange rate data source."
