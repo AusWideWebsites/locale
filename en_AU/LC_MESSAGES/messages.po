@@ -1722,84 +1722,84 @@ msgstr "TLD not found"
 
 #: modules/Servicedomain/Api/Admin.php:189
 msgid "ID not found"
-msgstr ""
+msgstr "ID not found"
 
 #: modules/Servicedomain/Api/Admin.php:218
 msgid "TLD is used by :count: domains"
-msgstr ""
+msgstr "TLD is used by :count: domains"
 
 #: modules/Servicedomain/Api/Admin.php:243
 msgid "TLD already registered"
-msgstr ""
+msgstr "TLD already registered"
 
 #: modules/Servicedomain/Api/Admin.php:333
 msgid "Registrar is not available for installation."
-msgstr ""
+msgstr "Registrar is not available for installation."
 
 #: modules/Servicedomain/Api/Admin.php:436
 msgid "Domain order is not activated"
-msgstr ""
+msgstr "Domain order is not activated"
 
 #: modules/Servicedomain/Api/Guest.php:90
 msgid "Domain :domain is invalid"
-msgstr ""
+msgstr "Domain :domain is invalid"
 
 #: modules/Servicedomain/Api/Guest.php:95
 msgid "Domain availability could not be determined. TLD is not active."
-msgstr ""
+msgstr "Domain availability could not be determined. TLD is not active."
 
 #: modules/Servicedomain/Api/Guest.php:99
 msgid "Domain is not available."
-msgstr ""
+msgstr "Domain is not available."
 
 #: modules/Servicedomain/Api/Guest.php:121
 msgid "TLD is not active."
-msgstr ""
+msgstr "TLD is not active."
 
 #: modules/Servicedomain/Api/Guest.php:124
 msgid "Domain cannot be transferred."
-msgstr ""
+msgstr "Domain cannot be transferred."
 
 #: modules/Servicedomain/Controller/Admin.php:34
 msgid "Domain registration"
-msgstr ""
+msgstr "Domain registration"
 
 #: modules/Servicedomain/Service.php:34
 msgid "Domain :domain registration"
-msgstr ""
+msgstr "Domain :domain registration"
 
 #: modules/Servicedomain/Service.php:41
 msgid "Domain :domain transfer"
-msgstr ""
+msgstr "Domain :domain transfer"
 
 #: modules/Servicedomain/Service.php:58
 msgid "Invalid domain action."
-msgstr ""
+msgstr "Invalid domain action."
 
 #: modules/Servicedomain/Service.php:71 modules/Servicedomain/Service.php:89
 #: modules/Servicedomain/Service.php:118 modules/Servicedomain/Service.php:555
 msgid "Domain name :domain is invalid"
-msgstr ""
+msgstr "Domain name :domain is invalid"
 
 #: modules/Servicedomain/Service.php:75
 msgid "TLD is invalid"
-msgstr ""
+msgstr "TLD is invalid"
 
 #: modules/Servicedomain/Service.php:99
 msgid ":domain cannot be transferred!"
-msgstr ""
+msgstr ":domain cannot be transferred!"
 
 #: modules/Servicedomain/Service.php:128
 msgid ":tld can be registered for at least :years years"
-msgstr ""
+msgstr ":tld can be registered for at least :years years"
 
 #: modules/Servicedomain/Service.php:133
 msgid ":domain is already registered!"
-msgstr ""
+msgstr ":domain is already registered!"
 
 #: modules/Servicedomain/Service.php:170
 msgid "Default domain nameservers are not configured"
-msgstr ""
+msgstr "Default domain nameservers are not configured"
 
 #: modules/Servicedomain/Service.php:371
 msgid "Nameserver 1 is required"
